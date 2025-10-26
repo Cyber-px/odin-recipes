@@ -1,2 +1,2 @@
 This project will serve me as demonstration that I have properly absorbed the knowledge that I have acquired over past lessons on the odin project.
-By the end of it I hope to manage git naturally as well as HTML.
+By the end of it I hope to manage git naturally, as well as HTML.
